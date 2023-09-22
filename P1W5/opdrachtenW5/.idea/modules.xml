@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bank/Bank.iml" filepath="$PROJECT_DIR$/Bank/Bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bibliotheek/Bibliotheek.iml" filepath="$PROJECT_DIR$/Bibliotheek/Bibliotheek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DnD/DnD.iml" filepath="$PROJECT_DIR$/DnD/DnD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PeerTutoringW5/PeerTutoringW5.iml" filepath="$PROJECT_DIR$/PeerTutoringW5/PeerTutoringW5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Speler/Speler.iml" filepath="$PROJECT_DIR$/Speler/Speler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VerhuisFirma/VerhuisFirma.iml" filepath="$PROJECT_DIR$/VerhuisFirma/VerhuisFirma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opdrachtenW5.iml" filepath="$PROJECT_DIR$/opdrachtenW5.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList en LinkedList/ArrayList en LinkedList.iml" filepath="$PROJECT_DIR$/ArrayList en LinkedList/ArrayList en LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList_vb1/ArrayList_vb1.iml" filepath="$PROJECT_DIR$/ArrayList_vb1/ArrayList_vb1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList_vb2/ArrayList_vb2.iml" filepath="$PROJECT_DIR$/ArrayList_vb2/ArrayList_vb2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList_vb3/ArrayList_vb3.iml" filepath="$PROJECT_DIR$/ArrayList_vb3/ArrayList_vb3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList_vb4/ArrayList_vb4.iml" filepath="$PROJECT_DIR$/ArrayList_vb4/ArrayList_vb4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList_vb5/ArrayList_vb5.iml" filepath="$PROJECT_DIR$/ArrayList_vb5/ArrayList_vb5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList_vb6/ArrayList_vb6.iml" filepath="$PROJECT_DIR$/ArrayList_vb6/ArrayList_vb6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections_vb1/Collections_vb1.iml" filepath="$PROJECT_DIR$/Collections_vb1/Collections_vb1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections_vb2/Collections_vb2.iml" filepath="$PROJECT_DIR$/Collections_vb2/Collections_vb2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparable_vb1/Comparable_vb1.iml" filepath="$PROJECT_DIR$/Comparable_vb1/Comparable_vb1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparable_vb2/Comparable_vb2.iml" filepath="$PROJECT_DIR$/Comparable_vb2/Comparable_vb2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparator_vb1/Comparator_vb1.iml" filepath="$PROJECT_DIR$/Comparator_vb1/Comparator_vb1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparator_vb2/Comparator_vb2.iml" filepath="$PROJECT_DIR$/Comparator_vb2/Comparator_vb2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Comparator_vb3/Comparator_vb3.iml" filepath="$PROJECT_DIR$/Comparator_vb3/Comparator_vb3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList_vb1/LinkedList_vb1.iml" filepath="$PROJECT_DIR$/LinkedList_vb1/LinkedList_vb1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Speedtest/Speedtest.iml" filepath="$PROJECT_DIR$/Speedtest/Speedtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uitgebreid_Voorbeeld/Uitgebreid_Voorbeeld.iml" filepath="$PROJECT_DIR$/Uitgebreid_Voorbeeld/Uitgebreid_Voorbeeld.iml" />
+    </modules>
+  </component>
+</project>

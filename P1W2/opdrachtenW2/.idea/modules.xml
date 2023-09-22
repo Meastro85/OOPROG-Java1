@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ASCII tabel/ASCII tabel.iml" filepath="$PROJECT_DIR$/ASCII tabel/ASCII tabel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Belasting/Belasting.iml" filepath="$PROJECT_DIR$/Belasting/Belasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calorieen/Calorieen.iml" filepath="$PROJECT_DIR$/Calorieen/Calorieen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codering/Codering.iml" filepath="$PROJECT_DIR$/Codering/Codering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Korting/Korting.iml" filepath="$PROJECT_DIR$/Korting/Korting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Schrikkeljaar/Schrikkeljaar.iml" filepath="$PROJECT_DIR$/Schrikkeljaar/Schrikkeljaar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Variabelen/Variabelen.iml" filepath="$PROJECT_DIR$/Variabelen/Variabelen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Verbruik/Verbruik.iml" filepath="$PROJECT_DIR$/Verbruik/Verbruik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Verslaving/Verslaving.iml" filepath="$PROJECT_DIR$/Verslaving/Verslaving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VreemdeResultaten/VreemdeResultaten.iml" filepath="$PROJECT_DIR$/VreemdeResultaten/VreemdeResultaten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opdrachtenW2.iml" filepath="$PROJECT_DIR$/opdrachtenW2.iml" />
+    </modules>
+  </component>
+</project>

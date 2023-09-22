@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Databank/Databank.iml" filepath="$PROJECT_DIR$/Databank/Databank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dubbels/Dubbels.iml" filepath="$PROJECT_DIR$/Dubbels/Dubbels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opdracht 1 klas/Opdracht 1 klas.iml" filepath="$PROJECT_DIR$/Opdracht 1 klas/Opdracht 1 klas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opdracht equals hashcode/Opdracht equals hashcode.iml" filepath="$PROJECT_DIR$/Opdracht equals hashcode/Opdracht equals hashcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2W5.iml" filepath="$PROJECT_DIR$/P2W5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Piloten/Piloten.iml" filepath="$PROJECT_DIR$/Piloten/Piloten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WInkelmandje met set/WInkelmandje met set.iml" filepath="$PROJECT_DIR$/WInkelmandje met set/WInkelmandje met set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woordenboek/Woordenboek.iml" filepath="$PROJECT_DIR$/Woordenboek/Woordenboek.iml" />
+    </modules>
+  </component>
+</project>

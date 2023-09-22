@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Craps/Craps.iml" filepath="$PROJECT_DIR$/Craps/Craps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HighScores/HighScores.iml" filepath="$PROJECT_DIR$/HighScores/HighScores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Koortsmeetsysteemstrook/Koortsmeetsysteemstrook.iml" filepath="$PROJECT_DIR$/Koortsmeetsysteemstrook/Koortsmeetsysteemstrook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PeerTutoring/PeerTutoring.iml" filepath="$PROJECT_DIR$/PeerTutoring/PeerTutoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spelen met strings/Spelen met strings.iml" filepath="$PROJECT_DIR$/Spelen met strings/Spelen met strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vat/Vat.iml" filepath="$PROJECT_DIR$/Vat/Vat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lottoGetallen/lottoGetallen.iml" filepath="$PROJECT_DIR$/lottoGetallen/lottoGetallen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opdrachtenW4.iml" filepath="$PROJECT_DIR$/opdrachtenW4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/random/random.iml" filepath="$PROJECT_DIR$/random/random.iml" />
+    </modules>
+  </component>
+</project>

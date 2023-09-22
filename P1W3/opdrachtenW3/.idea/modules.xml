@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dobbelsteen/Dobbelsteen.iml" filepath="$PROJECT_DIR$/Dobbelsteen/Dobbelsteen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graad/Graad.iml" filepath="$PROJECT_DIR$/Graad/Graad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kerstboom/Kerstboom.iml" filepath="$PROJECT_DIR$/Kerstboom/Kerstboom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Konijnen/Konijnen.iml" filepath="$PROJECT_DIR$/Konijnen/Konijnen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maanden/Maanden.iml" filepath="$PROJECT_DIR$/Maanden/Maanden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oppervlakte/Oppervlakte.iml" filepath="$PROJECT_DIR$/Oppervlakte/Oppervlakte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PeerTutoringW3/PeerTutoringW3.iml" filepath="$PROJECT_DIR$/PeerTutoringW3/PeerTutoringW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rangschikken/Rangschikken.iml" filepath="$PROJECT_DIR$/Rangschikken/Rangschikken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sparen/Sparen.iml" filepath="$PROJECT_DIR$/Sparen/Sparen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Validatie/Validatie.iml" filepath="$PROJECT_DIR$/Validatie/Validatie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Veelvouden/Veelvouden.iml" filepath="$PROJECT_DIR$/Veelvouden/Veelvouden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wachtwoorden/Wachtwoorden.iml" filepath="$PROJECT_DIR$/Wachtwoorden/Wachtwoorden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileOpdracht/WhileOpdracht.iml" filepath="$PROJECT_DIR$/WhileOpdracht/WhileOpdracht.iml" />
+      <module fileurl="file://$PROJECT_DIR$/for7/for7.iml" filepath="$PROJECT_DIR$/for7/for7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opdrachtenW3.iml" filepath="$PROJECT_DIR$/opdrachtenW3.iml" />
+    </modules>
+  </component>
+</project>

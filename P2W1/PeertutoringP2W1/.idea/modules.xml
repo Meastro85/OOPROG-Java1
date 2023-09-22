@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PeertutoringP2W1.iml" filepath="$PROJECT_DIR$/PeertutoringP2W1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatbot1/chatbot1.iml" filepath="$PROJECT_DIR$/chatbot1/chatbot1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatbot2/chatbot2.iml" filepath="$PROJECT_DIR$/chatbot2/chatbot2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatbot3/chatbot3.iml" filepath="$PROJECT_DIR$/chatbot3/chatbot3.iml" />
+    </modules>
+  </component>
+</project>

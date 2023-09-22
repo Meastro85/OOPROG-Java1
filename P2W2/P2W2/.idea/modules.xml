@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Boerderijdieren/Boerderijdieren.iml" filepath="$PROJECT_DIR$/Boerderijdieren/Boerderijdieren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lijst van objecten/Lijst van objecten.iml" filepath="$PROJECT_DIR$/Lijst van objecten/Lijst van objecten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Model/Model.iml" filepath="$PROJECT_DIR$/Model/Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modelbouwclub/Modelbouwclub.iml" filepath="$PROJECT_DIR$/Modelbouwclub/Modelbouwclub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Objecten Vergelijken/Objecten Vergelijken.iml" filepath="$PROJECT_DIR$/Objecten Vergelijken/Objecten Vergelijken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2W2.iml" filepath="$PROJECT_DIR$/P2W2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Peertutoring P2W2/Peertutoring P2W2.iml" filepath="$PROJECT_DIR$/Peertutoring P2W2/Peertutoring P2W2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Werknemers/Werknemers.iml" filepath="$PROJECT_DIR$/Werknemers/Werknemers.iml" />
+    </modules>
+  </component>
+</project>

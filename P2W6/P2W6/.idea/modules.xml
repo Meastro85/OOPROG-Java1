@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bank Account/Bank Account.iml" filepath="$PROJECT_DIR$/Bank Account/Bank Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Berekeningen/Berekeningen.iml" filepath="$PROJECT_DIR$/Berekeningen/Berekeningen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BergHutten/BergHutten.iml" filepath="$PROJECT_DIR$/BergHutten/BergHutten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2W6.iml" filepath="$PROJECT_DIR$/P2W6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parameters nakijken/Parameters nakijken.iml" filepath="$PROJECT_DIR$/Parameters nakijken/Parameters nakijken.iml" />
+    </modules>
+  </component>
+</project>

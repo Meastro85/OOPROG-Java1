@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DierenRijk/DierenRijk.iml" filepath="$PROJECT_DIR$/DierenRijk/DierenRijk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2W3.iml" filepath="$PROJECT_DIR$/P2W3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servies/Servies.iml" filepath="$PROJECT_DIR$/Servies/Servies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Transportmiddelen/Transportmiddelen.iml" filepath="$PROJECT_DIR$/Transportmiddelen/Transportmiddelen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Werknemers-2/Werknemers-2.iml" filepath="$PROJECT_DIR$/Werknemers-2/Werknemers-2.iml" />
+    </modules>
+  </component>
+</project>

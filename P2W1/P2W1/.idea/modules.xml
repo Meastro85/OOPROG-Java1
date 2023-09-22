@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aardrijkskunde/Aardrijkskunde.iml" filepath="$PROJECT_DIR$/Aardrijkskunde/Aardrijkskunde.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bioritme/Bioritme.iml" filepath="$PROJECT_DIR$/Bioritme/Bioritme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Booschietclub/Booschietclub.iml" filepath="$PROJECT_DIR$/Booschietclub/Booschietclub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dagen/Dagen.iml" filepath="$PROJECT_DIR$/Dagen/Dagen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kaartspelletjes-2/Kaartspelletjes-2.iml" filepath="$PROJECT_DIR$/Kaartspelletjes-2/Kaartspelletjes-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Laptops/Laptops.iml" filepath="$PROJECT_DIR$/Laptops/Laptops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leeftijd-2/Leeftijd-2.iml" filepath="$PROJECT_DIR$/Leeftijd-2/Leeftijd-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opdracht4Datums/Opdracht4Datums.iml" filepath="$PROJECT_DIR$/Opdracht4Datums/Opdracht4Datums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2W1.iml" filepath="$PROJECT_DIR$/P2W1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Peertutoring/Peertutoring.iml" filepath="$PROJECT_DIR$/Peertutoring/Peertutoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ramadan/Ramadan.iml" filepath="$PROJECT_DIR$/Ramadan/Ramadan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Voetbalclub/Voetbalclub.iml" filepath="$PROJECT_DIR$/Voetbalclub/Voetbalclub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VrijdagDeDertiende/VrijdagDeDertiende.iml" filepath="$PROJECT_DIR$/VrijdagDeDertiende/VrijdagDeDertiende.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wapenstilstand/Wapenstilstand.iml" filepath="$PROJECT_DIR$/Wapenstilstand/Wapenstilstand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opdr1_static/opdr1_static.iml" filepath="$PROJECT_DIR$/opdr1_static/opdr1_static.iml" />
+    </modules>
+  </component>
+</project>

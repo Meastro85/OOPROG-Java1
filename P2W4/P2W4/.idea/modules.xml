@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Acteurs/Acteurs.iml" filepath="$PROJECT_DIR$/Acteurs/Acteurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lottogetallen/Lottogetallen.iml" filepath="$PROJECT_DIR$/Lottogetallen/Lottogetallen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P2W4.iml" filepath="$PROJECT_DIR$/P2W4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorteren/Sorteren.iml" filepath="$PROJECT_DIR$/Sorteren/Sorteren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodoList/TodoList.iml" filepath="$PROJECT_DIR$/TodoList/TodoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Verjaardagen/Verjaardagen.iml" filepath="$PROJECT_DIR$/Verjaardagen/Verjaardagen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vliegtuigen/Vliegtuigen.iml" filepath="$PROJECT_DIR$/Vliegtuigen/Vliegtuigen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Winkelmandje/Winkelmandje.iml" filepath="$PROJECT_DIR$/Winkelmandje/Winkelmandje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2LinkedList/_2LinkedList.iml" filepath="$PROJECT_DIR$/_2LinkedList/_2LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opdr_arrayList/opdr_arrayList.iml" filepath="$PROJECT_DIR$/opdr_arrayList/opdr_arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opdr_arraytoArrayList/opdr_arraytoArrayList.iml" filepath="$PROJECT_DIR$/opdr_arraytoArrayList/opdr_arraytoArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opr_collections/opr_collections.iml" filepath="$PROJECT_DIR$/opr_collections/opr_collections.iml" />
+    </modules>
+  </component>
+</project>

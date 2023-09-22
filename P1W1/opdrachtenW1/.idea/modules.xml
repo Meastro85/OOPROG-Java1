@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BMI 2/BMI 2.iml" filepath="$PROJECT_DIR$/BMI 2/BMI 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Begroeting/Begroeting.iml" filepath="$PROJECT_DIR$/Begroeting/Begroeting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bewerkingen/Bewerkingen.iml" filepath="$PROJECT_DIR$/Bewerkingen/Bewerkingen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cowsay/Cowsay.iml" filepath="$PROJECT_DIR$/Cowsay/Cowsay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HogerLagerSpel/HogerLagerSpel.iml" filepath="$PROJECT_DIR$/HogerLagerSpel/HogerLagerSpel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kassa/Kassa.iml" filepath="$PROJECT_DIR$/Kassa/Kassa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leeftijd/Leeftijd.iml" filepath="$PROJECT_DIR$/Leeftijd/Leeftijd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reeksen/Reeksen.iml" filepath="$PROJECT_DIR$/Reeksen/Reeksen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sommeren/Sommeren.iml" filepath="$PROJECT_DIR$/Sommeren/Sommeren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartToRun/StartToRun.iml" filepath="$PROJECT_DIR$/StartToRun/StartToRun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tafels/Tafels.iml" filepath="$PROJECT_DIR$/Tafels/Tafels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vakantie/Vakantie.iml" filepath="$PROJECT_DIR$/Vakantie/Vakantie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opdrachtenW1.iml" filepath="$PROJECT_DIR$/opdrachtenW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optelprogramma/optelProgramma.iml" filepath="$PROJECT_DIR$/optelprogramma/optelProgramma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productProgramma/productProgramma.iml" filepath="$PROJECT_DIR$/productProgramma/productProgramma.iml" />
+    </modules>
+  </component>
+</project>

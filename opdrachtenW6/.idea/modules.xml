@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Beeldscherm/Beeldscherm.iml" filepath="$PROJECT_DIR$/Beeldscherm/Beeldscherm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Driehoek van Pascal/Driehoek van Pascal.iml" filepath="$PROJECT_DIR$/Driehoek van Pascal/Driehoek van Pascal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Films/Films.iml" filepath="$PROJECT_DIR$/Films/Films.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flexibele Lijst/Flexibele Lijst.iml" filepath="$PROJECT_DIR$/Flexibele Lijst/Flexibele Lijst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kaartspelletjes/Kaartspelletjes.iml" filepath="$PROJECT_DIR$/Kaartspelletjes/Kaartspelletjes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LegeArrays/LegeArrays.iml" filepath="$PROJECT_DIR$/LegeArrays/LegeArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Letterfrequenties/Letterfrequenties.iml" filepath="$PROJECT_DIR$/Letterfrequenties/Letterfrequenties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lotto/Lotto.iml" filepath="$PROJECT_DIR$/Lotto/Lotto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opwarmertje/Opwarmertje.iml" filepath="$PROJECT_DIR$/Opwarmertje/Opwarmertje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PeerTutoring/PeerTutoring.iml" filepath="$PROJECT_DIR$/PeerTutoring/PeerTutoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rekenen met Matrices/Rekenen met Matrices.iml" filepath="$PROJECT_DIR$/Rekenen met Matrices/Rekenen met Matrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Woordlengtes/Woordlengtes.iml" filepath="$PROJECT_DIR$/Woordlengtes/Woordlengtes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m1_lege_arrays/m1_lege_arrays.iml" filepath="$PROJECT_DIR$/m1_lege_arrays/m1_lege_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matric/matric.iml" filepath="$PROJECT_DIR$/matric/matric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opdrachtenW6.iml" filepath="$PROJECT_DIR$/opdrachtenW6.iml" />
+    </modules>
+  </component>
+</project>
